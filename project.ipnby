@@ -17,4 +17,4 @@ def najwiekszy(lista):
 moja_lista = lista_2D(3, 4)
 print(moja_lista)
 najwiekszy_element = najwiekszy(moja_lista)
-print(najwiekszy_element)
+print("Największym elementem twojej listy jest: ", najwiekszy_element)
